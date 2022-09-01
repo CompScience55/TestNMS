@@ -1,0 +1,9 @@
+name: BossZombie
+version: '${project.version}'
+main: de.compsience.bosszombie.BossZombie
+api-version: 1.17
+authors: [ CompSience ]
+
+
+commands:
+  give:
